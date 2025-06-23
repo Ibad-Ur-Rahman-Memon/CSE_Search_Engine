@@ -1,0 +1,3 @@
+sqlite-jdbc driver
+
+Java version needed
