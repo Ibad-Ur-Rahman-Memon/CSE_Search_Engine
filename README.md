@@ -53,7 +53,17 @@ CSE_Search_Engine/
 ---
 ## 📷 GUI Preview
 
-![GUI Preview](assets/screenshot.png)
+### Home Screen
+![Home Screen](assets/screenshot.png)
+
+### 1st Search
+![Search 1](assets/screenshot_1.png)
+
+### 2nd Search
+![Search Result](assets/screenshot_2.png)
+
+### 3rd Search
+![No Result](assets/screenshot_3.png)
 
 ---
 ## 👨‍💻 Developed By
